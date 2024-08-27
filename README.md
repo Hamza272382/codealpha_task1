@@ -1,5 +1,4 @@
-# codealpha_task1
-# Image Gallery 
+# codealpha_task1: Image Gallery 
 
 # Description
 This project is a simple image gallery web application built with HTML, CSS, and JavaScript. It allows users to view images in a grid layout, and displays the name of each image beneath it.
