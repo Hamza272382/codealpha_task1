@@ -13,8 +13,6 @@ This project is a simple image gallery web application built with HTML, CSS, and
 - CSS: For styling and layout.
 - JavaScript: For any interactive functionalities (if applicable).
 
-# Getting Started
-
 # Prerequisites
 - A web browser to view the gallery.
 
